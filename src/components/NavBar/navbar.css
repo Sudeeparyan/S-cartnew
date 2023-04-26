@@ -1,0 +1,21 @@
+.navbar-scart{
+    display:flex;
+    justify-content:space-evenly;
+    width: 100%;
+    margin: 10px;
+}
+.btn-primary{
+    font-weight: bold; 
+    font-size:20px;
+    color:white;
+    background-color:black;
+}
+.btn-success{
+    font-weight: bold; 
+    font-size:20px;
+}
+.btn-warning{
+    font-weight: bold; 
+    font-size:20px;
+    color:white;
+}
